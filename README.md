@@ -1,1 +1,2 @@
 -Install svg
+- Install victory-native
